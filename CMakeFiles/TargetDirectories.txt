@@ -1,0 +1,3 @@
+/home/iiiqwertyiii/OAC/Decodifica/CMakeFiles/rebuild_cache.dir
+/home/iiiqwertyiii/OAC/Decodifica/CMakeFiles/edit_cache.dir
+/home/iiiqwertyiii/OAC/Decodifica/CMakeFiles/Decodifica.dir

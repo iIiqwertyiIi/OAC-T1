@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Decodifica.dir/rv_decoder.c.o  -o Decodifica 
